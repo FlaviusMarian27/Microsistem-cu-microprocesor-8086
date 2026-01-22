@@ -102,4 +102,4 @@ All programs are written as **subroutines** intended to be called from a main pr
    - toggle LEDs for status/debug
 
 ## Author / Course
-Project made for “Microprocessor Design” (UPT, AC). :contentReference[oaicite:1]{index=1}
+Project made for “Microprocessor Design” (UPT, AC).
