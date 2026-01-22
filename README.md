@@ -1,7 +1,7 @@
 # 8086 Microsystem (EasyEDA)
 
 ## Overview
-This project is an EasyEDA schematic of a small microsystem built around the **Intel 8086**. The system includes ROM/RAM memory, a serial and a parallel I/O interface, a 3x4 keypad, 6 status LEDs, and a multiplexed 7-segment display driven through address decoding and an 8255 PPI. :contentReference[oaicite:0]{index=0}
+This project is an EasyEDA schematic of a small microsystem built around the **Intel 8086**. The system includes ROM/RAM memory, a serial and a parallel I/O interface, a 3x4 keypad, 6 status LEDs, and a multiplexed 7-segment display driven through address decoding and an 8255 PPI.
 
 ## Main features
 - **CPU:** Intel 8086 (minimal mode), clocked from a ~1 MHz oscillator  
